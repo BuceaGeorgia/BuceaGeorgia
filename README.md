@@ -6,7 +6,7 @@ Over the past 6+ years, I've built production ML systems ranging from computer v
 
 ---
 
-## 🛠 Technologies I Use
+## Technologies I Use
 
 
 ### Languages

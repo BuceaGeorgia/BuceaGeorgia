@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Georgia 👋
 
-<!--
-**BuceaGeorgia/BuceaGeorgia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Machine Learning Engineer & CTO building intelligent systems at the intersection of **Robotics**, **Vision-Language Models**, and **Multimodal AI**.
 
-Here are some ideas to get you started:
+Over the past 6+ years, I've built production ML systems ranging from computer vision pipelines for assistive technologies and healthcare to multimodal AI applications for content creation. I'm passionate about building intelligent systems that perceive, reason about, and interact with the physical world.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Technologies I Use
+
+
+### Languages
+Python • C++ • SQL • TypeScript
+
+### Machine Learning
+PyTorch • OpenCV • ONNX Runtime • Hugging Face Transformers • Scikit-learn
+
+### LLMs & Multimodal AI
+LangChain • LangGraph • FAISS • Pinecone • Neo4j • LangSmith
+
+### Model Optimization & Edge AI
+NVIDIA Jetson • ONNX Runtime • Model Quantization
+
+### Backend & Infrastructure
+FastAPI • AWS • AWS SageMaker • Apache Spark • Docker • Linux
+
+### Data Engineering
+Pandas • NumPy • FFmpeg
+
+
